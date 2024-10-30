@@ -17,9 +17,13 @@ Here are some interesting projects I have worked on ---
 #### Mechatronics
 
 #####  3-Axis motor-propeller test bench.
+<img src="images/IMG-20241029-WA0010.jpg" alt="Description of Image" width="600" height="800">
 I have been recently fascinated by one and two propeller drone and have seen some great implementation out there for counter balancing the inertia and maneuvering the drone. I had few ideas of my own, and needed a safe way to validate those concepts. This project allows me to apply an controls algorithm to the motor and concept  actuators and see results if I can generate directional forces that would help in steer the drone. 
 
 ##### [Doto - Task prompter](https://github.com/Punit1024/Doto)
+
+<img src="images/IMG-20241029-WA0020.jpg" alt="Description of Image" width="500" height="300">
+
 Have you ever struggled with having multiple people approach you to help with various things and when that's done you have completely lost track of what you were doing and may be something else has consumed your mind and you start working on that instead of the original thing that you  had planned to finish today ? well that happens to me a lot. 
 I thought wouldn't it be great to have my active task ever present in front of me to remind me/ pull me back into that. therefore I created this project.
 This project uses an ESP32, a 16x4 LCD screen and 4 buttons. it will fetch your tasks from todoist.com and show you only one task at a time with option to close task, go-to next, go-to previous and a back button to go back to list of projects. 
@@ -27,6 +31,8 @@ So you can keep this at your work desk and it will keep displaying your active t
 
 
 ##### [6 DOF Robot Arm]()
+
+<img src="images/IMG-20241029-WA0027.jpg" alt="Description of Image" width="500" height="300">
 Active project.. I am reusing the design from [ how to Mechatronics](https://howtomechatronics.com/projects/arduino-robot-arm-and-mecanum-wheels-platform-automatic-operation/) and will be trying out various inverse kinematic and motion planning algorithms 
 
 
@@ -43,6 +49,9 @@ this project contrains modeling approach and simulation of a Trebuchet inside ma
 #### Autonomous Robots
 
 ##### [Home Service Robot](https://github.com/Punit1024/HomeServiceRobot)
+
+<img src="images/Screenshot%202024-10-30%20000029.jpg" alt="Description of Image" width="500" height="300">
+
 Simulate a home service robot that can map, localize, and navigate to transport objects, moving from one room to another autonomously.
 
 ##### [GO_CHASE_IT](https://github.com/Punit1024/GO_CHASE_IT)
