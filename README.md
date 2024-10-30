@@ -19,10 +19,9 @@ Here are some interesting projects I have worked on ---
 
 <img src="images/WhatsApp%20Image%202024-10-29%20at%2021.13.09_80b63d05.jpg" alt="Description of Image" width="400" height="300">
 
-Have you ever struggled with having multiple people approach you to help with various things and when that's done you have completely lost track of what you were doing and may be something else has consumed your mind and you start working on that instead of the original thing that you  had planned to finish today ? well that happens to me a lot. 
-I thought wouldn't it be great to have my active task ever present in front of me to remind me/ pull me back into that. therefore I created this project.
-This project uses an ESP32, a 16x4 LCD screen and 4 buttons. it will fetch your tasks from todoist.com and show you only one task at a time with option to close task, go-to next, go-to previous and a back button to go back to list of projects. 
-So you can keep this at your work desk and it will keep displaying your active task.
+Have you ever struggled with multiple people approaching you for help with various tasks, only to find that, once they're done, you've completely lost track of what you were originally doing? Sometimes, something else captures your attention, and you end up working on that instead of the task you had planned to finish today. This happens to me a lot. I thought, wouldn’t it be great to have my active task always visible, serving as a reminder and pulling me back to focus? That’s why I created this project.
+
+This project uses an ESP32, a 16x4 LCD screen, and 4 buttons. It fetches your tasks from Todoist.com and displays only one task at a time, with options to close the task, go to the next or previous one, and a back button to return to the list of projects. You can keep this on your desk, and it will continually display your active task to keep you on track.
 
 ***
 #### :point_right: [6 DOF Robot Arm]()
