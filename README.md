@@ -24,17 +24,17 @@ Have you ever struggled with multiple people approaching you for help with vario
 This project uses an ESP32, a 16x4 LCD screen, and 4 buttons. It fetches your tasks from Todoist.com and displays only one task at a time, with options to close the task, go to the next or previous one, and a back button to return to the list of projects. You can keep this on your desk, and it will continually display your active task to keep you on track.
 
 ***
-#### :point_right: [6 DOF Robot Arm]()
-
-<img src="images/IMG-20241029-WA0027.jpg" alt="Description of Image" width="500" height="300">
-Active project.. I am reusing the design from [ how to Mechatronics](https://howtomechatronics.com/projects/arduino-robot-arm-and-mecanum-wheels-platform-automatic-operation/) and will be trying out various inverse kinematic and motion planning algorithms 
-
-***
 #### :point_right: [Home Service Robot](https://github.com/Punit1024/HomeServiceRobot)
 
 <img src="images/Screenshot%202024-10-30%20000029.jpg" alt="Description of Image" width="500" height="300">
 
 Simulate a home service robot that can map, localize, and navigate to transport objects, moving from one room to another autonomously.
+
+***
+#### :point_right: [6 DOF Robot Arm]()
+
+<img src="images/IMG-20241029-WA0027.jpg" alt="Description of Image" width="500" height="300">
+Active project.. I am reusing the design from [ how to Mechatronics](https://howtomechatronics.com/projects/arduino-robot-arm-and-mecanum-wheels-platform-automatic-operation/) and will be trying out various inverse kinematic and motion planning algorithms 
 
 ***
 #### :point_right: [GO_CHASE_IT](https://github.com/Punit1024/GO_CHASE_IT)
