@@ -45,7 +45,7 @@ Ball chaser robot Simulation; ROS package that processes image published by Robo
 ***
 #####  :point_right: [3-Axis motor-propeller test bench]()
 <img src="images/IMG-20241029-WA0010.jpg" alt="Description of Image" width="300" height="400">
-I have been recently fascinated by one and two propeller drone and have seen some great implementation out there for counter balancing the inertia and maneuvering the drone. I had few ideas of my own, and needed a safe way to validate those concepts. This project allows me to apply an controls algorithm to the motor and concept  actuators and see results if I can generate directional forces that would help in steer the drone. 
+I have been recently fascinated by one and two propeller drone and have seen some great implementation out there for counter balancing the inertia and maneuvering the drone. I had few ideas of my own, and needed a safe way to validate those concepts. This project allows me to apply an controls algorithm to the motor and concept  actuators and see results if I can generate directional forces that would help in steering the drone. 
 
 ***
 #### :point_right: [Map_My_World](https://github.com/Punit1024/Map_My_World)
