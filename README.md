@@ -28,6 +28,8 @@ This project uses an ESP32, a 16x4 LCD screen, and 4 buttons. It fetches your ta
 
 <img src="images/Screenshot%202024-10-30%20000029.jpg" alt="Description of Image" width="500" height="300">
 
+[video](https://www.linkedin.com/posts/punitpurohit_udacity-robotics-engineering-activity-6713872972593152000-veGT?utm_source=share&utm_medium=member_desktop)
+
 Simulate a home service robot that can map, localize, and navigate to transport objects, moving from one room to another autonomously.
 
 ***
